@@ -7,3 +7,10 @@
     line-height: 30px;
     margin-bottom: 30px;
   }
+
+  @media (max-width: 768px) {
+    /* Styles for screens with a maximum width of 768 pixels */
+    .search-box {
+      width: 200px;
+    }
+  }

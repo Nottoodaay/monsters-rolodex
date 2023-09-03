@@ -15,3 +15,11 @@
   .card-container:hover {
     transform: scale(1.05);
   }
+
+  @media (max-width: 768px) {
+    .card-container {
+      margin-bottom: 20px;
+    }
+  }
+
+  
